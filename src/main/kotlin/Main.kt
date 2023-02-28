@@ -115,7 +115,7 @@ fun pow(number: Int, pow: Int = 2):Int{
     }
 }*/
 /*fun main(args: Array<String>) {
-    /*Hacer un programa que mediante funciones permita calcular
+    /*6.Hacer un programa que mediante funciones permita calcular
     el factorial de un número.*/
     print("Ingrese un número: ")
     var num = readLine()!!.toInt()
